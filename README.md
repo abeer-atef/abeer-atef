@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Based_in-Egypt-453a70?style=for-the-badge&labelColor=181430&color=f5a94b"/>
-  <img src="https://img.shields.io/badge/🎓_CS_Graduate-181430?style=for-the-badge&labelColor=181430&color=eaa3c6"/>
+  <img src="https://img.shields.io/badge/🎓_CS_Student-181430?style=for-the-badge&labelColor=181430&color=eaa3c6"/>
   <img src="https://img.shields.io/badge/📚_Now_Learning-.NET_%26_Architecture-181430?style=for-the-badge&labelColor=181430&color=f5a94b"/>
 </p>
 

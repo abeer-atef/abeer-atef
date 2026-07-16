@@ -60,16 +60,11 @@
 <br>
 
 ### 📊 GitHub stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abeer-atef&show_icons=true&hide_border=true&bg_color=181430&title_color=f5a94b&text_color=e8e3f7&icon_color=eaa3c6&ring_color=f5a94b" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeer-atef&layout=compact&hide_border=true&bg_color=181430&title_color=f5a94b&text_color=e8e3f7&langs_count=8" alt="top languages"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abeer-atef&hide_border=true&background=181430&ring=f5a94b&fire=eaa3c6&currStreakLabel=f5a94b&sideLabels=e8e3f7&currStreakNum=e8e3f7&sideNums=e8e3f7&dates=8880b8" alt="streak stats"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abeer-atef&theme=dracula" alt="most used languages"/>
-</p>
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/abeer-atef/abeer-atef/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/abeer-atef/abeer-atef/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ### 🔗 Let's connect
 <p align="center">

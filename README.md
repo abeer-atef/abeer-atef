@@ -46,6 +46,17 @@
 
 <br>
 
+
+### 📊 GitHub stats
+
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/abeer-atef/abeer-atef/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 <!-- ============ PAC-MAN CONTRIBUTION GAME ============ -->
 ### 👾 Contribution Maze
 <p align="center">
@@ -58,12 +69,6 @@
 <p align="center"><sub>generated with <a href="https://github.com/abozanona/pacman-contribution-graph">abozanona/pacman-contribution-graph</a></sub></p>
 
 <br>
-
-### 📊 GitHub stats
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/abeer-atef/abeer-atef/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ### 🔗 Let's connect
 <p align="center">

@@ -1,22 +1,73 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Abeer
-==============================================================================================================================
+<div align="center">
 
-Full-Stack Web Developer
-------------------------
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181430,100:453a70&height=210&section=header&text=Hi,%20I'm%20Abeer%20%F0%9F%91%8B&fontSize=40&fontColor=f5a94b&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%C2%B7%20MEAN%20%26%20.NET&descAlignY=56&descSize=18&descColor=e8e3f7&animation=fadeIn" width="100%"/>
 
-For a while, I wasn’t sure what path to take, but finding my passion for Computer Science changed everything for me. Over the past two years, I’ve focused on problem-solving and spent a year working directly in backend development. I’ve learned to work well with both MEAN and .NET stacks. I’m committed to making the most of my time by building strong, reliable projects. Now that I’ve found my place in tech, I put my full effort into every line of code.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=F5A94B&center=true&vCenter=true&width=560&lines=Building+reliable+software%2C+one+line+at+a+time;MEAN+%2B+.NET+full-stack+developer;Currently+leveling+up+in+software+architecture;Say+hi+%F0%9F%91%8B" alt="typing" />
 
-* 🌍  I'm based in Egypt
-* 🖥️  See my portfolio at [https://abeerportfolio.netlify.app/](http://abeerportfolio.netlify.app/)
-* ✉️  You can contact me at [abeeratef452@gmail.com](mailto:abeeratef452@gmail.com)
-* 🧠  I'm currently learning Advanced .NET development and software architecture.
-* 👥  I'm looking to collaborate on Scalable web applications, full-stack development projects, or AI-integrated solutions.
-* 💬  Ask me about I'm a computer science student dedicated to building impactful, data-driven software solutions. Always excited about new challenges in the tech field!
+</div>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a>
+<br>
+
+<table>
+<tr>
+<td width="65%" valign="middle">
+
+### About me
+
+- 🌍 I'm based in **Egypt**
+- 🧠 Currently learning **Advanced .NET development and software architecture**
+- 👥 Looking to collaborate on **scalable web apps**, **full-stack projects**, and **AI-integrated solutions**
+- ✉️ Reach me at **[abeeratef452@gmail.com](mailto:abeeratef452@gmail.com)**
+- 💬 Ask me about anything data-driven — I'm a CS grad who's happiest building software that actually holds up
+
+For a while I wasn't sure what path to take, until I found Computer Science. Over the past two years I've focused on problem-solving, with a year spent deep in backend development. I work comfortably across the **MEAN** and **.NET** stacks, and I'd rather ship something dependable than something flashy that breaks.
+
+</td>
+<td width="35%" align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V5cGxhbmJ2emZpdjJpOG05MzRsbWk2ajZ2MzE0MnYzejNwdHV1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DbHCJxHiR3cvvE0X2W/giphy.gif" width="260" alt="coding cat"/>
+<br><sub>my unofficial pair programmer</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🧰 Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,git,js,ts,vscode,html,css,angular,bootstrap,nodejs,express,mongodb,dotnet&theme=dark" alt="skills"/>
 </p>
 
-### Socials
+<br>
 
-<p align="left"> <a href="https://www.github.com/abeer-atef" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/abeeratef" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abeer-atef&show_icons=true&hide_border=true&bg_color=181430&title_color=f5a94b&text_color=e8e3f7&icon_color=eaa3c6&ring_color=f5a94b" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeer-atef&layout=compact&hide_border=true&bg_color=181430&title_color=f5a94b&text_color=e8e3f7&langs_count=8" alt="top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abeer-atef&hide_border=true&background=181430&ring=f5a94b&fire=eaa3c6&currStreakLabel=f5a94b&sideLabels=e8e3f7&currStreakNum=e8e3f7&sideNums=e8e3f7&dates=8880b8" alt="streak stats"/>
+</p>
+
+<br>
+
+### 🔗 Let's connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abeeratef" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-453a70?style=for-the-badge&logo=linkedin&logoColor=f5a94b" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abeeratef452@gmail.com">
+    <img src="https://img.shields.io/badge/Email-453a70?style=for-the-badge&logo=gmail&logoColor=f5a94b" alt="Email"/>
+  </a>
+  <a href="https://www.github.com/abeer-atef" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-453a70?style=for-the-badge&logo=github&logoColor=f5a94b" alt="GitHub"/>
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:453a70,100:181430&height=120&section=footer" width="100%"/>
+
+</div>

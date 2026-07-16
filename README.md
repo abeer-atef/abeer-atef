@@ -18,7 +18,7 @@
   <tr>
     <td width="60%" valign="middle">
       <p>
-        I didn't start out sure where I was headed — until I found <b>Computer Science</b>, and things clicked. The last two years have been about problem-solving; the last one specifically about going deep on <b>backend development</b>.
+        I didn't start out sure where I was headed, until I found <b>Computer Science</b>, and things clicked. The last two years have been about problem-solving; the last one specifically about going deep on <b>backend development</b>.
       </p>
       <p>
         These days I move comfortably across the <b>MEAN</b> and <b>.NET</b> stacks, and I've picked up a simple rule along the way: <i>I'd rather ship something dependable than something flashy that breaks.</i>
@@ -26,7 +26,7 @@
       <p>
         🔭 Currently sharpening my skills in <b>advanced .NET & software architecture</b><br>
         🤝 Open to collaborating on <b>scalable web apps</b>, <b>full-stack projects</b>, and <b>AI-integrated solutions</b><br>
-        💬 Ask me anything data-driven — happiest when I'm building software that actually holds up<br>
+        💬 Ask me anything data-driven, happiest when I'm building software that actually holds up<br>
         ✉️ Reach me at <a href="mailto:abeeratef452@gmail.com"><b>abeeratef452@gmail.com</b></a>
       </p>
     </td>
@@ -51,7 +51,7 @@
 
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=abeer-atef&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 <div data-importer="stats" align="center">

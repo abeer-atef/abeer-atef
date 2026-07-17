@@ -41,7 +41,8 @@
 
 ### 🧰 Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,git,js,ts,vscode,html,css,angular,bootstrap,nodejs,express,mongodb,dotnet&theme=dark" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=cs,cpp,git,js,ts,vscode,html,css,angular,bootstrap,nodejs,express,mongodb,dotnet&theme=dark" alt="skills"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>
 </p>
 
 <br>

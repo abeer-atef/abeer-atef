@@ -32,7 +32,7 @@
     </td>
     <td width="40%" align="center">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V5cGxhbmJ2emZpdjJpOG05MzRsbWk2ajZ2MzE0MnYzejNwdHV1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DbHCJxHiR3cvvE0X2W/giphy.gif" width="260" alt="coding cat"/>
-      <br><sub>I swear, it was working earlier!</sub>
+      <br><sub>I swear, it was working earlier!!!</sub>
     </td>
   </tr>
 </table>

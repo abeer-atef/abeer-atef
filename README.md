@@ -75,7 +75,7 @@
 ### 🔗 Let's connect
 <p align="center">
   <a href="https://www.linkedin.com/in/abeeratef" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-453a70?style=for-the-badge&logo=linkedin&logoColor=f5a94b" alt="LinkedIn"/></a>
-  <a href="mailto:abeeratef452@gmail.com"><img src="https://img.shields.io/badge/Email-453a70?style=for-the-badge&logo=gmail&logoColor=f5a94b" alt="Email"/></a>
+  <a href="mailtoabeer.atef.mohammed@gmail.com"><img src="https://img.shields.io/badge/Email-453a70?style=for-the-badge&logo=gmail&logoColor=f5a94b" alt="Email"/></a>
   <a href="https://www.github.com/abeer-atef" target="_blank"><img src="https://img.shields.io/badge/GitHub-453a70?style=for-the-badge&logo=github&logoColor=f5a94b" alt="GitHub"/></a>
 </p>
 

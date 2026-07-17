@@ -27,7 +27,7 @@
         🔭 Currently sharpening my skills in <b>advanced .NET & software architecture</b><br>
         🤝 Open to collaborating on <b>scalable web apps</b>, <b>full-stack projects</b>, and <b>AI-integrated solutions</b><br>
         💬 Ask me anything data-driven, happiest when I'm building software that actually holds up<br>
-        ✉️ Reach me at <a href="mailto:abeeratef452@gmail.com"><b>abeeratef452@gmail.com</b></a>
+        ✉️ Reach me at <a href="mailto:abeer.atef.mohammed@gmail.com"><b>abeer.atef.mohammed@gmail.com</b></a>
       </p>
     </td>
     <td width="40%" align="center">
